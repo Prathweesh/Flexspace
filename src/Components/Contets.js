@@ -10,7 +10,7 @@ export default function contets() {
         <p className='lightblack'>Using data collected from 90+ countries and over 2500 workspaces, get unparalleled insights into flexible working habits across the world.</p>
         <button className='btn' > <a href='./topic'   >Explore topics  ↓ </a> </button>
       </div>
-      <img className='contentimage' src="/contentimg.png" alt="" />
+      <img className='contentimage' src="/contentimg.png" alt="image" />
        </div>
 
 <div className="contain">
