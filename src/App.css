@@ -127,6 +127,11 @@ margin: auto;
   color: white;
 }
 
+.vline{
+  border-left: 2px solid #000; 
+  height: 100px;
+  margin-left: 2px;
+}
 .vertical-line{
   border-left: 2px solid #aca9a9;
   height: 200px;
@@ -210,6 +215,7 @@ height: 50px;
     float:right;
     transform-origin: right bottom;
     transform: scale(0.7);
+    visibility: collapse;
   }
 
 
@@ -225,6 +231,7 @@ height: 50px;
   }
 
   
+  
 .vertical-line{
   border-top: 2px solid #aca9a9;
   width: 80vh;
@@ -233,7 +240,7 @@ height: 50px;
   position: absolute;
   align-items: center;
   /* float:right; */
-  
+  visibility: hidden;
 }
 
 .endtext{

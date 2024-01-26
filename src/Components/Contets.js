@@ -31,7 +31,7 @@ export default function contets() {
 
           <div className="card">
             <h2>Analysis Per Market</h2>
-            <p className='lightblack'>A comprehensive analysis of reservation patterns in coworking and flex workspaces in the US, UK and Spain.</p>
+            <p className='lightblack'>A comprehensive analysis of reservation patterns in coworking and  flex workspaces in the US, UK and Spain.</p>
             <button className='btn'>⟶</button>
             <img src='./home-image2.png' alt='' ></img>
            </div>
